@@ -1,0 +1,14 @@
+{
+    "type": "module",
+    "name": "parsing",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "Andrew Kobzar",
+    "license": "ISC",
+    "description": "Test task",
+    "dependencies": {
+        "puppeteer": "^24.1.1"
+    }
+}
